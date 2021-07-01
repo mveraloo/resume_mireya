@@ -1,89 +1,67 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: Resume
+title: Mireya's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Mireya Vera
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="mveraloo@byui.edu ">mveraloo@byui.edu </a>
+| <a href="http://www.linkedin.com/in/mireyaveraloo">LinkedIn</a>
+| <a href="https://github.com/mveraloo/resume_mireya">GitHub</a>
+</div>
+
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2020-2021`
+__Ensign College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
+- Graduating in July 2021.
+- Cumulative GPA 3.94/4.00.
+- Relevant Coursework: Statistics, Tableau for Business Analytics, Structured Query Language (SQL), Excel and Intro. To Technology, Advanced Business Analysis, Data Analytics, Intro to Windows Server Administration, Data Warehousing, Advanced Data Analytics.
 
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Cumulative GPA 4.00/4.00
+- Currently enrolled online. Accepted to Data Science program on campus
+- Relevant Coursework: Introduction to Programming (JavaScript and Python), Introduction to Databases (MySQL), Programming with functions (Python), Database Design and Development (PL/SQL), Database Programming (PL/SQL), Programming Building Blocks (Python).
 
+## Work Experience
 
-## Related Experience
+`February 2021 - May 2021`
+__Creatably__, Market Analyst
 
-### Internships
+- Evaluated campaigns and offline event sets for 6 different clients to keep and get more audience and clicks impressions.
+- Formulated reports and made recommendations for improvement based on findings for 6+ clients.
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`September 2020 - February 2021`
+__Ensign College__, Testing Center Administrator
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Handled student sensitive information and assisted in scheduling exams for new and current students.
+- Answered questions from callers and visitors about procedures, policies, and other information.
+- Proctored and monitored students while testing to preserve a secure testing environment.
 
-### Data Science Lead
+`September 2018 - December 2019`
+__Utah Valley University__, Custodial Worker
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Maintained appearance and cleanliness across 4 buildings at campus and assisted other custodial staff if needed.
+- Conducted physical inspections to ascertain all services were completed.
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+## Volunteer Experience
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`September 2020 - December 2020`
+__Ensign College__, Volunteer Peer Mentor
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Provided mentoring services to new and transferred students (10 students).
+- Tracked and collected records of students’ progress each week to implement new strategies of mentoring.
 
-### Data Science Consulting Team
+## Skills and Knowledge
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+- BYU Pathway Worldwide certificate and UVU ESL certificate.
+- JavaScript, Python, SQL, PL/SQL, Tableau, Visual Studio, Power BI, and Microsoft Office.
+- Fluent in Spanish.
 
