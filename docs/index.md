@@ -21,20 +21,22 @@ davewhipp-screen.css you can change the following code
 	font-family: Roboto; // change the font to roboto
 	font-size: 100%;
 }-->
-<!-- https://www.monique.tech/the-art-of-markdown -->
+
 
 ## Education
 
 `2020-2021`
-__Ensign College__, Salt Lake City, UT
-<!--What type of degree or certification do you have for this education--> 
+__Associate of Science in Business Analytics and Business Intelligence__
+
+___Ensign College___, Salt Lake City, UT
 - Graduating in July 2021.
 - Cumulative GPA 3.94/4.00.
 - Relevant Coursework: Statistics, Tableau for Business Analytics, Structured Query Language (SQL), Excel and Intro. To Technology, Advanced Business Analysis, Data Analytics, Intro to Windows Server Administration, Data Warehousing, Advanced Data Analytics.
 
 `Expected 2024`
-__Brigham Young University - Idaho__, Rexburg, ID
-<!-- what is your major or minor please specify-->
+__Bachelor of Science in Applied Technology__
+
+___Brigham Young University - Idaho___, Rexburg, ID
 - Cumulative GPA 4.00/4.00
 - Currently enrolled online. Accepted to Data Science program on campus
 - Relevant Coursework: Introduction to Programming (JavaScript and Python), Introduction to Databases (MySQL), Programming with functions (Python), Database Design and Development (PL/SQL), Database Programming (PL/SQL), Programming Building Blocks (Python).
